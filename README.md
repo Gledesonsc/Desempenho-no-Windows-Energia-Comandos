@@ -2,8 +2,6 @@
 
 ## Subtitulo: Para escolher um plano de energia no prompt de comando
 
-![Imagem de Exemplo](url_da_imagem)
-
 Passo a passo de como fazer a ativação:
 
 1. Abra um prompt de comando chamado de CMD ou PowerShell como administrador. 💻
