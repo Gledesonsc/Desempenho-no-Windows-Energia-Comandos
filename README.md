@@ -31,6 +31,6 @@ Passo a passo de como fazer a ativação:
     - Economia de energia: `powercfg /S a1841308-3541-4fab-bc81-f71556f20b4a` 🌱
     - Desempenho máximo: `powercfg /S e9a42b02-d5df-448d-aa00-03f14749eb61` 💪
 
-![Imagem de Exemplo](url_da_imagem)
+![Imagem de Exemplo](https://raw.githubusercontent.com/Gledesonsc/Desempenho-no-Windows-Energia-Comandos/main/Power_Plans_command-2.png)
 
 Agora você pode escolher o plano de energia que melhor se adequa às suas necessidades de desempenho no Windows! 🚀
