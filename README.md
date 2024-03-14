@@ -8,7 +8,7 @@ Passo a passo de como fazer a ativação:
 
 2. Copie e cole o comando `powercfg /List` ou `powercfg /L` no prompt de comando e pressione Enter. Isso lhe dará uma lista de todos os planos de energia disponíveis no PC junto com seu GUID. Anote o GUID do plano de energia que você deseja escolher. (veja a captura de tela abaixo)
 
-![Imagem de Exemplo](url_da_imagem)
+![Imagem de Exemplo](https://raw.githubusercontent.com/Gledesonsc/Desempenho-no-Windows-Energia-Comandos/main/Power_Plans_command-1.png)
 
 3. Digite um dos comandos abaixo no prompt de comando e pressione Enter. (veja a captura de tela abaixo)
 
